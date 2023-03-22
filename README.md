@@ -1,19 +1,18 @@
----
->> ### demo-mvc
->> ### Controle de Funcionários
+### demo-mvc
+### Controle de Funcionários
 ---
 > ### Spring Boot & MVC com Thymeleaf
 ---
 
-> #### *O projeto foi desenvolvido na IDE Spring Tool Suite*
-> #### *Fluxo MVC Framework Action Based*
-> #### *Gerenciamento do projeto com Maven*
-> #### *Conjunto de bibliotécas Thymeleaf para templates na view*
-> #### *Banco de dados relacional MySql*
-> #### *Servidor Tomcat*
-> #### *Facilitando a configuração do projeto com Spring Boot*
-> #### *Spring Data JPA*
-> #### *Spring MVC*
+>> #### *O projeto foi desenvolvido na IDE Spring Tool Suite*
+>> #### *Fluxo MVC Framework Action Based*
+>> #### *Gerenciamento do projeto com Maven*
+>> #### *Conjunto de bibliotécas Thymeleaf para templates na view*
+>> #### *Banco de dados relacional MySql*
+>> #### *Servidor Tomcat*
+>> #### *Facilitando a configuração do projeto com Spring Boot*
+>> #### *Spring Data JPA*
+>> #### *Spring MVC*
 ---
 
 > #### *Algumas telas do sistema já desenvolvidas:* 
