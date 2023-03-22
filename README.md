@@ -15,8 +15,12 @@
 > #### *Spring MVC*
 ---
 
-> #### *Algumas telas do sistema já desenvolvidas:* 
+> #### *Algumas telas do sistema:* 
 >
+> #### *Padrão MVC*
+> 
+![padrao_mvc](https://user-images.githubusercontent.com/16118637/226791250-2f672644-b8be-4bc9-9129-0abdd17cd615.png)
+
 > #### *Tela listagem de Departamentos*
  
 ![Tela Status do Paciente](https://github.com/andreitoledo/demo-mvc/blob/main/src/main/resources/static/image/listagem_departamento.png)
