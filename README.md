@@ -1,7 +1,9 @@
-# demo-mvc
-Controle de Funcionários
+### demo-mvc
+### Controle de Funcionários
 ---
-> #### *Spring Boot & MVC com Thymeleaf*
+> #### Spring Boot & MVC com Thymeleaf
+---
+
 > #### *O projeto foi desenvolvido na IDE Spring Tool Suite*
 > #### *Fluxo MVC Framework Action Based*
 > #### *Gerenciamento do projeto com Maven*
