@@ -35,3 +35,9 @@
  
 ![Tela Status do Paciente](https://github.com/andreitoledo/demo-mvc/blob/main/src/main/resources/static/image/edicao_funcionarios.png)
 
+
+----
+>#### @author:                             
+>#### Andrei Toledo                        
+>#### Analista e Desenvolvedor de Sistemas 
+----
